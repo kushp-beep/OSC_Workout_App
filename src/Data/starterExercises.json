@@ -1,0 +1,29 @@
+[
+  {
+    "id": "starter-push-up",
+    "name": "Push-up",
+    "bodyPart": "chest",
+    "target": "pectorals",
+    "secondaryMuscles": ["triceps", "shoulders"],
+    "equipment": "body weight",
+    "trackingType": "repetitions"
+  },
+  {
+    "id": "starter-squat",
+    "name": "Bodyweight squat",
+    "bodyPart": "upper legs",
+    "target": "quadriceps",
+    "secondaryMuscles": ["glutes"],
+    "equipment": "body weight",
+    "trackingType": "repetitions"
+  },
+  {
+    "id": "starter-plank",
+    "name": "Plank",
+    "bodyPart": "waist",
+    "target": "abs",
+    "secondaryMuscles": ["shoulders"],
+    "equipment": "body weight",
+    "trackingType": "time"
+  }
+]
